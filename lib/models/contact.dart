@@ -12,7 +12,7 @@ class Contact {
     map["PhoneNumber"] = phoneNumber;
     map["Avatar"] = avatar;
     if (id != null) {
-      map["id"] = id;
+      map["Id"] = id;
     }
     return map;
   }
