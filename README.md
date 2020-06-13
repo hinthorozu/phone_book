@@ -1,6 +1,7 @@
 # phonebook
 
 Telefon Defteri - SDKPort
+Basit Telefon Defteri uygulaması ile kendinize özel contact listesi oluşturabilirsiniz.
 
 ## Getting Started
 
